@@ -7,7 +7,15 @@
       "addressDetails": {
         "address": "roMaug2NRYC7eY6Kd83yodXoz4gALTkzT"
       }
+     {
+      "paymentNetwork": "BTC",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "1KLyMAckScSyZL2aDbjycQ9BCZiw7eE6Hb"
+      }
     }
   ],
   "payId": "pay$klymacks.github.io"
 }
+    
