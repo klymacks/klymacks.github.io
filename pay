@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "roMaug2NRYC7eY6Kd83yodXoz4gALTkzT"
+      }
+    }
+  ],
+  "payId": "pay$klymacks.github.io"
+}
